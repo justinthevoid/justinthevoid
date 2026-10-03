@@ -1,4 +1,4 @@
-<a href="https://justinthevoid.com/?seed=1971"><img src="sky.svg" width="100%" alt="Today's sky over justinthevoid.com: Pleiades, sky 1971"></a>
+<a href="https://justinthevoid.com/?seed=4352"><img src="sky.svg" width="100%" alt="Today's sky over justinthevoid.com: Orion Nebula, sky 4352"></a>
 
 I design and build software end to end: the idea, the interface and the code underneath it. The sky above is redrawn every morning, and the homepage draws the same sky in full if you click it.
 
